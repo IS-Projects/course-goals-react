@@ -1,6 +1,6 @@
 # course-goals-react
 
-This repository is created based on the sixth module of the course "React - The Complete Guide 2022" by Maximilian Schwarzmüller. It focuses on the topic of "Styling components", which is used to create a simple app that creates a list of users.
+This repository is created based on the sixth module of the course "React - The Complete Guide 2022" by Maximilian Schwarzmüller. It focuses on the topic of "Styling components", which is used to create a simple app that creates a list of goals.
 
 ## Script to run the project:
 
